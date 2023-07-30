@@ -6,7 +6,8 @@
 //To return the age, how to return the age to the User?
 
 //PSEUDOCODE TO SOLVE THE TASK
-// 1. Take in 2 Input currentYear and birthYear:
-// 2. Conversion of the Inputs to string
-// 3. The function takes in the 2 inputs and calculate the age
-// 4. Returning the age to the User
+// Take in 2 Input currentYear and birthYear:
+// Conversion of the Inputs to string
+// The function takes in the 2 inputs and calculate the age
+// Returning the age to the User
+// Calling of the function
