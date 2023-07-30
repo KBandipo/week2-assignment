@@ -8,6 +8,11 @@
 //PSEUDOCODE TO SOLVE THE TASK
 // Take in 2 Input currentYear and birthYear:
 // Conversion of the Inputs to string
+const birthYear = parseInt(prompt("Enter your birth year"));
+let currentYear = parseInt(prompt("Enter the current year"));
+
 // The function takes in the 2 inputs and calculate the age
-// Returning the age to the User
+
 // Calling of the function
+
+// Returning the age to the User
