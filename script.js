@@ -13,7 +13,7 @@ function calculateAge(currentYear, birthYear) {
 // Calling of the function
 const age = calculateAge(currentYear, birthYear);
 
-// Returning the age to the User
+// Returning the age to the User via the browser
 prompt(age);
 
 //QUESTION 2
@@ -22,5 +22,12 @@ prompt(age);
 
 //Pseudocode
 //Create an array
+const numberArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 //Loop the array
-//Return even numbers only
+for (let i = 0; i < numberArray.length; i++) {
+  let num = numberArray[i];
+  //Return even numbers only
+  if (num % 2 === 0) {
+    console.log(num);
+  }
+}
