@@ -23,3 +23,4 @@ prompt(age);
 //Pseudocode
 //Create an array
 //Loop the array
+//Return even numbers only
